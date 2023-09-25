@@ -18,5 +18,5 @@ Example:
 python ImageToASCII.py --file test.jpg --cols 200
 ```
 ### Preview
-<img src=""></img>
-<img src=""></img>
+<img src="https://github.com/Qyt0109/ImageToASCII/blob/main/Images/0.png"></img>
+<img src="https://github.com/Qyt0109/ImageToASCII/blob/main/Images/1.png"></img>
